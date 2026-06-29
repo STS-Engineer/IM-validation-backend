@@ -1,0 +1,62 @@
+[
+  {
+    "id": "site1",
+    "label": "Sceet",
+    "sheetName": "Sceet",
+    "fileUrl": "https://avocarbongroup-my.sharepoint.com/:x:/r/personal/fethi_chaouachi_avocarbon_com/Documents/Copie%20de%20Copie%20de%20IMI%20file.xlsx?d=w614d675aeb09459f95bb081b84f95215&csf=1&web=1&e=BBnGHD&nav=MTVfe0IyREJDRjM2LTE5MjItNDM2Qy05RDVELUI4QURDRjlGODJFNH0"
+  },
+  {
+    "id": "site2",
+    "label": "AVOCGermany",
+    "sheetName": "AVOCGermany",
+    "fileUrl": "https://avocarbongroup-my.sharepoint.com/:x:/r/personal/fethi_chaouachi_avocarbon_com/Documents/Copie%20de%20Copie%20de%20IMI%20file.xlsx?d=w614d675aeb09459f95bb081b84f95215&csf=1&web=1&e=yEDarp&nav=MTVfezFCQjkxNjc1LTA1MEYtNDMwMy04NTM4LTAwRDM4ODU4QjcyRX0"
+  },
+  {
+    "id": "site3",
+    "label": "Monterrey",
+    "sheetName": "Monterrey",
+    "fileUrl": "https://avocarbongroup-my.sharepoint.com/:x:/r/personal/fethi_chaouachi_avocarbon_com/Documents/Copie%20de%20Copie%20de%20IMI%20file.xlsx?d=w614d675aeb09459f95bb081b84f95215&csf=1&web=1&e=CJMElv&nav=MTVfe0UyRUI3RTQyLUNGNTAtNDI2My04QjMzLTVCREMwQ0YyNTlDOX0"
+  },
+  {
+    "id": "site4",
+    "label": "Kunshan",
+    "sheetName": "Kunshan",
+    "fileUrl": "https://avocarbongroup-my.sharepoint.com/:x:/r/personal/fethi_chaouachi_avocarbon_com/Documents/Copie%20de%20Copie%20de%20IMI%20file.xlsx?d=w614d675aeb09459f95bb081b84f95215&csf=1&web=1&e=uSn8AQ&nav=MTVfe0Q1NzVGQ0I0LTcxMzItNDhGOC05OTkxLUFDMDhCRjQ1NTgwRn0"
+  },
+  {
+    "id": "site5",
+    "label": "SAME",
+    "sheetName": "SAME",
+    "fileUrl": "https://avocarbongroup-my.sharepoint.com/:x:/r/personal/fethi_chaouachi_avocarbon_com/Documents/Copie%20de%20Copie%20de%20IMI%20file.xlsx?d=w614d675aeb09459f95bb081b84f95215&csf=1&web=1&e=HduF57&nav=MTVfezk1MDREMEM0LTk2ODItNEUyQy1BMkI2LUIwMzE2RkU0MEI3MH0"
+  },
+  {
+    "id": "site6",
+    "label": "Poitiers",
+    "sheetName": "Poitiers",
+    "fileUrl": "https://avocarbongroup-my.sharepoint.com/:x:/r/personal/fethi_chaouachi_avocarbon_com/Documents/Copie%20de%20Copie%20de%20IMI%20file.xlsx?d=w614d675aeb09459f95bb081b84f95215&csf=1&web=1&e=ALyqjy&nav=MTVfezhDMUUwOUIxLTZFOTEtNDUzQy04RkYxLThDNkI5NUVDN0YxM30"
+  },
+  {
+    "id": "site7",
+    "label": "Daegu",
+    "sheetName": "Daegu",
+    "fileUrl": "https://avocarbongroup-my.sharepoint.com/:x:/r/personal/fethi_chaouachi_avocarbon_com/Documents/Copie%20de%20Copie%20de%20IMI%20file.xlsx?d=w614d675aeb09459f95bb081b84f95215&csf=1&web=1&e=7a88Ib&nav=MTVfe0YwRDIxMzg1LTQyQkEtNDdBNC04MURCLThBN0U1NjE2OEIxMn0"
+  },
+  {
+    "id": "site8",
+    "label": "Cyclam",
+    "sheetName": "Cyclam",
+    "fileUrl": "https://avocarbongroup-my.sharepoint.com/:x:/r/personal/fethi_chaouachi_avocarbon_com/Documents/Copie%20de%20Copie%20de%20IMI%20file.xlsx?d=w614d675aeb09459f95bb081b84f95215&csf=1&web=1&e=u5ZXeQ&nav=MTVfe0UxN0I5MUVGLTREOEMtNDQ4RC04NDE4LTdGNEVENDIzMDFCRn0"
+  },
+  {
+    "id": "site9",
+    "label": "Chennai",
+    "sheetName": "Chennai",
+    "fileUrl": "https://avocarbongroup-my.sharepoint.com/:x:/r/personal/fethi_chaouachi_avocarbon_com/Documents/Copie%20de%20Copie%20de%20IMI%20file.xlsx?d=w614d675aeb09459f95bb081b84f95215&csf=1&web=1&e=Wd7gQR&nav=MTVfezM2ODg0RjQ5LTRFMDYtNEMzNS1BRTczLTNBMzA5MTkyNDlDQX0"
+  },
+  {
+    "id": "site10",
+    "label": "Tianjin",
+    "sheetName": "Tianjin",
+    "fileUrl": "https://avocarbongroup-my.sharepoint.com/:x:/r/personal/fethi_chaouachi_avocarbon_com/Documents/Copie%20de%20Copie%20de%20IMI%20file.xlsx?d=w614d675aeb09459f95bb081b84f95215&csf=1&web=1&e=VbgrEt&nav=MTVfe0MyOTNGMzEwLTE4RDItNEY1OS1BRkI3LTNBMjlFQzdBMjYyQ30"
+  }
+]
